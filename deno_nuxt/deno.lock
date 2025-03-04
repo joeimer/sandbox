@@ -1,6 +1,7 @@
 {
   "version": "4",
   "specifiers": {
+    "npm:nuxt@*": "3.15.4_vue@3.5.13_vue-router@4.5.0__vue@3.5.13_jiti@2.4.2",
     "npm:nuxt@3.15.4": "3.15.4_vue@3.5.13_vue-router@4.5.0__vue@3.5.13_jiti@2.4.2",
     "npm:nuxt@^3.15.4": "3.15.4_vue@3.5.13_vue-router@4.5.0__vue@3.5.13_jiti@2.4.2",
     "npm:vue-router@4.5.0": "4.5.0_vue@3.5.13",
@@ -594,7 +595,7 @@
         "semver@7.7.1",
         "simple-git",
         "sirv",
-        "tinyglobby@0.2.10_picomatch@4.0.2",
+        "tinyglobby@0.2.12_picomatch@4.0.2",
         "unimport@3.14.6",
         "vite",
         "vite-plugin-inspect",
