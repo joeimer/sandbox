@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "build": "deno run -A --node-modules-dir npm:nuxt build",
+    "dev": "deno run -A --node-modules-dir npm:nuxt dev",
+    "generate": "deno run -A --node-modules-dir npm:nuxt generate",
+    "preview": "deno run -A --node-modules-dir npm:nuxt preview",
+    "postinstall": "deno run -A --node-modules-dir npm:nuxt prepare"
+  },
+  "imports": {
+    "vue": "npm:vue@3.5.13",
+    "vue-router": "npm:vue-router@4.5.0",
+    "nuxt": "npm:nuxt@3.15.4"
+  }
+}
